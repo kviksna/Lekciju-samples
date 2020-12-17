@@ -11,3 +11,5 @@ print(id(res)) #adrese RAM'ā
 w=5
 h=10
 print('w: {}'.format(w))
+salary = 'Salary: {}'.format(salary)
+
