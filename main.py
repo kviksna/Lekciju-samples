@@ -12,4 +12,9 @@ w=5
 h=10
 print('w: {}'.format(w))
 salary = 'Salary: {}'.format(salary)
+salary2 = 'Salary: {}{}'.format(salary, 2)
+
+f'Salary: {}'.format(salary)
+
+#typeof: sub instance
 
